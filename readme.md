@@ -1,3 +1,4 @@
+```pawn
 // OnUnoccupiedVehicleUpdate Callback
 public OnUnoccupiedVehicleUpdate(vehicleid, playerid, passenger_seat)
 {
@@ -35,3 +36,4 @@ public OnUnoccupiedVehicleUpdate(vehicleid, playerid, passenger_seat)
 
     return 1;
 }
+```
